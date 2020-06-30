@@ -10,6 +10,10 @@ google.com, pub-1525447278714484, DIRECT, f08c47fec0942fa0
 #MoPub
 mopub.com, 2e57af4852e946c0be820e9efd7c6298, DIRECT, 74b46c0ea83967ca
 
+#Facebook
+facebook.com, 231362861483561, RESELLER, c3e20eee3f780d68
+facebook.com, 789504228243000, RESELLER, c3e20eee3f780d68
+
 #Applovin
 applovin.com, eee825fc73d24b8ea5b438a70bb74738, DIRECT
 adcolony.com, 5d8cbf6671c93a42, RESELLER, 1ad675c9de6b5176
